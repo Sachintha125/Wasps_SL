@@ -21,17 +21,17 @@ The dataset is organized into class-wise folders, each corresponding to a wasp s
   ├── Vespa affinis/
   └── Vespa tropica/ </code> </pre>
 
-📸 Image Sources
-Field photography by contributors
-Verified using entomology references
+📸 Image Sources<br/>
+Field photography by contributors<br/>
+Verified using entomology references<br/>
 
-🧠 Applications
-Wasp species classification using deep learning
-Biodiversity and ecological research
-Automated insect detection systems
-Educational tools and awareness
+🧠 Applications<br/>
+Wasp species classification using deep learning<br/>
+Biodiversity and ecological research<br/>
+Automated insect detection systems<br/>
+Educational tools and awareness<br/>
 
-👥 Contributors
+👥 Contributors<br/>
 R.A.T.D. Ranasinghe - Department of Zoology and Environment Sciences, Faculty of Science, University of Colombo, Sri Lanka<br/>
 S.A. Weththasinghe - Department of Plant Sciences, Faculty of Science, University of Colombo, Sri Lanka<br/>
 D.L. Abeywardhana - Department of Computer Science, Faculty of Computing, Sri Lanka Institute of Information Technology, Malabe, Sri Lanka<br/>

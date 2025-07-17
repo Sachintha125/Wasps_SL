@@ -32,10 +32,10 @@ Automated insect detection systems
 Educational tools and awareness
 
 👥 Contributors
-R.A.T.D. Ranasinghe - Department of Zoology and Environment Sciences, Faculty of Science, University of Colombo, Sri Lanka
-S.A. Weththasinghe - Department of Plant Sciences, Faculty of Science, University of Colombo, Sri Lanka
-D.L. Abeywardhana - Department of Computer Science, Faculty of Computing, Sri Lanka Institute of Information Technology, Malabe, Sri Lanka
-C.D.Dangalle - Department of Zoology and Environment Sciences, Faculty of Science, University of Colombo, Sri Lanka
+R.A.T.D. Ranasinghe - Department of Zoology and Environment Sciences, Faculty of Science, University of Colombo, Sri Lanka<br/>
+S.A. Weththasinghe - Department of Plant Sciences, Faculty of Science, University of Colombo, Sri Lanka<br/>
+D.L. Abeywardhana - Department of Computer Science, Faculty of Computing, Sri Lanka Institute of Information Technology, Malabe, Sri Lanka<br/>
+C.D.Dangalle - Department of Zoology and Environment Sciences, Faculty of Science, University of Colombo, Sri Lanka<br/>
 
 📬 Contact
 Please reach out to:

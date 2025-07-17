@@ -2,6 +2,8 @@
 
 This is an open-source image dataset consisting of 14 wasp species found in Sri Lanka. The goal is to support research in entomology, biodiversity monitoring, and machine learning applications such as species classification and conservation efforts.
 
+📂 Dataset Structure
+The dataset is organized into class-wise folders, each corresponding to a wasp species:
 <pre> <code> /SriLankanWaspDataset/ 
   ├── Antepipona ceylonica/ 
   ├── Antodynerus punctipennis/ 
@@ -18,3 +20,23 @@ This is an open-source image dataset consisting of 14 wasp species found in Sri 
   ├── Subancistrocerus sichelii/
   ├── Vespa affinis/
   └── Vespa tropica/ </code> </pre>
+
+📸 Image Sources
+Field photography by contributors
+Verified using entomology references
+
+🧠 Applications
+Wasp species classification using deep learning
+Biodiversity and ecological research
+Automated insect detection systems
+Educational tools and awareness
+
+👥 Contributors
+R.A.T.D. Ranasinghe - Department of Zoology and Environment Sciences, Faculty of Science, University of Colombo, Sri Lanka
+S.A. Weththasinghe - Department of Plant Sciences, Faculty of Science, University of Colombo, Sri Lanka
+D.L. Abeywardhana - Department of Computer Science, Faculty of Computing, Sri Lanka Institute of Information Technology, Malabe, Sri Lanka
+C.D.Dangalle - Department of Zoology and Environment Sciences, Faculty of Science, University of Colombo, Sri Lanka
+
+📬 Contact
+Please reach out to:
+📧 akalankasachintha125@gmail.com
